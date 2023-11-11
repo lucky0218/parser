@@ -1,0 +1,9 @@
+
+int main(){
+	int a=5;
+	int b=3;
+	double c=(a+b)*1.5E+2;
+	double *d=&c;
+	return 0;
+}
+

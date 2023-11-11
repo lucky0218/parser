@@ -18,7 +18,6 @@ int (*autoptr[])(string &, int) = {automata0, automata1, automata2, automata3, a
 
 void deal(string &s) {
     if (s == "") return;
-    cout << "get:" << s << endl;
     result.clear();
     string buf = "";
     for (int i = 0; i < s.size(); i++) {

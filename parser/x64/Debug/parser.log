@@ -1,5 +1,0 @@
-﻿  machines.cpp
-D:\我的文档\东南大学学业\编译原理\实验1\parser\src\constants.h(31,12): warning C4114: 多次使用同一类型限定符
-D:\我的文档\东南大学学业\编译原理\实验1\parser\src\constants.h(36,12): warning C4114: 多次使用同一类型限定符
-D:\我的文档\东南大学学业\编译原理\实验1\parser\src\machines.cpp(153): warning C4715: “automata4”: 不是所有的控件路径都返回值
-  parser.vcxproj -> D:\我的文档\东南大学学业\编译原理\实验1\parser\x64\Debug\parser.exe
